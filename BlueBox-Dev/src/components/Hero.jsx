@@ -7,8 +7,8 @@ function Hero() {
   return (
     
     <>
-    <section id="hero">Hero Section</section>
-     <div className='bg-cover  bg-center bg-no-repeat'>
+    <section id="hero">
+     <div className='bg-cover  bg-center bg-no-repeat pb-40 border-b-10 border-[#011b31]'>
 
         {/*desktop*/}
         <div className='hidden md:flex'>
@@ -79,7 +79,7 @@ function Hero() {
                                         />
                 </div>
 
-                <div className='border-white border rounded-3xl backdrop-blur-xl p-4'>
+                <div className='border-white border rounded-3xl backdrop-blur-xl p-4 ='>
                     <p className='text-gray-200 text-c  text-lg'>I am passionate about turning ideas into working software, with adaptability, a strong willingness to learn, <br />
             and a commitment to producing efficient and high-quality outputs.</p>
                 </div>
@@ -87,6 +87,7 @@ function Hero() {
         </div>
 
     </div>
+    </section>
     </>
    
   )

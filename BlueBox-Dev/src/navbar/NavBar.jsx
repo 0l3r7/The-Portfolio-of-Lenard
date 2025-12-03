@@ -22,7 +22,7 @@ function Navbar() {
             className='w-[110px] cursor-pointer hidden lg:flex 
             hover:drop-shadow-[0_0_10px_rgba(59,130,246,0.7)]'
             /> 
-            <h1 className='text-4xl font-FD cursor-pointer hover:text-blue-600 '>LENARD.</h1>
+            <h1 className='text-4xl font-FD cursor-pointer hover:text-blue-600 drop-shadow-[0_0_10px_#3B82F6]'>LENARD.</h1>
         </div>
         
         <div className='hidden md:flex'>
