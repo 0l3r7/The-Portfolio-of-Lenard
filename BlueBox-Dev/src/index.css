@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "fredoka";
+    src: url("../src/assets/font/FredokaOne-Regular.ttf") format("truetype");
+}
+
+
+@theme{
+     --font-FD:fredoka, "sans-serif";
+    
+
+}

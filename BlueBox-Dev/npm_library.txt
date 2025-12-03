@@ -1,0 +1,12 @@
+npm create vite@latest my-app
+cd my-app
+npm install
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install react-typed
+npm install react-icons
+npm install react-router-dom
+
+cd D:\The-Portfolio-of-Lenard\BlueBox-Dev
