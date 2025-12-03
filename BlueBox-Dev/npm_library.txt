@@ -10,3 +10,16 @@ npm install react-icons
 npm install react-router-dom
 
 cd D:\The-Portfolio-of-Lenard\BlueBox-Dev
+git init
+git remote add origin https://github.com/0l3r7/The-Portfolio-of-Lenard.git
+git branch -M main
+git add .
+git commit -m "Deploy BlueBox-Dev app"
+git push -u origin main
+
+npm install @react-spring/web react-use-gesture
+npm install swiper react-icons
+npm install @react-spring/web react-use-gesture
+
+
+npm run build && npm run deploy
