@@ -10,6 +10,7 @@ npm install react-icons
 npm install react-router-dom
 
 cd D:\The-Portfolio-of-Lenard\BlueBox-Dev
+
 git init
 git remote add origin https://github.com/0l3r7/The-Portfolio-of-Lenard.git
 git branch -M main
@@ -21,5 +22,11 @@ npm install @react-spring/web react-use-gesture
 npm install swiper react-icons
 npm install @react-spring/web react-use-gesture
 
-
+to deploy change on publish site kineme ewan 
 npm run build && npm run deploy
+
+
+Ol3r7
+_
+npm install emailjs-com
+072405
